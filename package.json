@@ -1,0 +1,13 @@
+{
+  "name": "zhouqjtest",
+  "version": "1.0.5",
+  "description": "",
+  "main": "timerformater.js",
+  "homepage": "https://github.com/zhouqj1414657557/zhouqjtest",
+  "Repository": "https://github.com/zhouqj1414657557/zhouqjtest",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zqj",
+  "license": "ISC"
+}
